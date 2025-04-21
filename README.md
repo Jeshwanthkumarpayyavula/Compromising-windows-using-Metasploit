@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/da41744e-cb1e-4f9e-a55c-b71521705eb5)# Compromising-windows-using-Metasploit
+# Compromising-windows-using-Metasploit
 Compromising windows using Metasploit
 # Metasploit
 Compromising windows using Metasploit
